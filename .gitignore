@@ -1,0 +1,5 @@
+.vscode/
+__pycache__/
+*.pyc
+faceWord_exp_data/
+.DS_Store
